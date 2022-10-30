@@ -40,12 +40,12 @@ body {
   display: flex;
 }
 .task-list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .task-process, 
 .procedure-heading {
-  list-style:none;
+  list-style: none;
 }
 .btn-add,
 .edit-btn,
@@ -57,7 +57,7 @@ body {
   width: 60px;
   font-family: Lato, sans-serif;
   cursor: pointer;
-  outline:none;
+  outline: none;
 }
 .btn-add:hover,
 .edit-btn:hover,
@@ -87,7 +87,7 @@ body {
   border-radius: 6px;
   font-family: Lato, sans-serif;
   color: #888;
-  outline:none;
+  outline: none;
 }
 #new-task {
     color: #333;
@@ -144,14 +144,14 @@ body {
 
 /* Edit Task */
 .task-item {
-  display:none
+  display: none
 }
 
 .edit-mode .task-item {
-  display:inline-block;
-  width:345px
+  display: inline-block;
+  width: 345px
 }
 
 .edit-mode .task-heading {
-  display:none;
+  display: none;
 }
