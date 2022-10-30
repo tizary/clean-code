@@ -22,7 +22,8 @@ body {
 
 @media (max-width:768px) {
 
-  .preview { text-align: center;
+  .preview { 
+    text-align: center;
   }
 
 }
